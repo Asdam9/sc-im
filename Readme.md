@@ -1,5 +1,10 @@
 ## SC-IM
 
+This is my fork of SC-IM due to AUR package not defaulting config to ~/.config/scimrc
+My fork also employs the full ~1mil lines spreadsheets and has all the correct build options for Arch.
+
+In other words, minor configurations and no changes.
+
 SC-IM is a spreadsheet program that is based on SC (http://ibiblio.org/pub/Linux/apps/financial/spreadsheet/sc-7.16.tar.gz)
 SC original authors are James Gosling and Mark Weiser, and mods were later added by Chuck Martin.
 
@@ -24,6 +29,16 @@ SC original authors are James Gosling and Mark Weiser, and mods were later added
 - Use SC-IM as a non-interactive calculator, reading its input from a external script.
 - More movements commands implemented !
 - Input and Output was completely rewritten.
+
+## Some of the features I plan to add
+
+- Save-quitting on ZZ
+- Quiting without saving on ZQ
+- Set it so if you press ESC it cancels the hotkey (This is annoying that it doesn't do this properly)
+
+In other words, small changes
+
+## PS:
 
 About the name, the idea is that the program can be identified as another vim-like app.
 SC-IM stands for Spreadsheet Calculator Improvised. :-)
