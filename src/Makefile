@@ -45,7 +45,7 @@ CFLAGS += -DINS_HISTORY_FILE=\"sc-iminfo\"
 # Comment out to disable undo/redo support
 CFLAGS += -DUNDO
 # Maximum number of rows in spreadsheet. Up to 1048576
-CFLAGS += -DMAXROWS=65536
+CFLAGS += -DMAXROWS=1048576
 # Used for date formatting with C-d shortcut using you local d_fmt
 CFLAGS += -DUSELOCALE
 
