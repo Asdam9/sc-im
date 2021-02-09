@@ -1,6 +1,6 @@
 ## SC-IM
 
-This is my fork of SC-IM due to AUR package not defaulting config to ~/.config/scimrc
+This is my fork of SC-IM due to AUR package not defaulting config to ~/.config/scimrc. \n
 My fork also employs the full ~1mil lines spreadsheets and has all the correct build options for Arch.
 
 In other words, minor configurations and no changes.
